@@ -14,3 +14,4 @@ Joaquin Aranzadi ()
 
 
 ## Diagrama de entidad relación (DER)
+<img width="909" height="330" alt="image" src="https://github.com/user-attachments/assets/8da16f59-11fc-4c24-852e-3863549a7719" />
